@@ -1,4 +1,4 @@
-#Begining
+#Beginning
 #starting values
 winter_points = 0
 summer_points = 0
